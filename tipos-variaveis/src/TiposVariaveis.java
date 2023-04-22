@@ -10,8 +10,9 @@ public class TiposVariaveis {
         int numeroNormal = numeroCurto;
 
         short numeroCurto2 = (short) numeroNormal;
-// hghghghg
+
         int numero = 5;
+        
     }
     
 }
